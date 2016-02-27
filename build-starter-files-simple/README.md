@@ -1,2 +1,2 @@
 # Simple Starter Build Files
-Uses prepros.
+Uses prepros. For small builds.
